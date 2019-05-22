@@ -23,6 +23,6 @@ Java 9
 ## Related Products
 * [Hands-On Data Structures & Algorithms in Java 11 [Video]](https://www.packtpub.com/application-development/hands-data-structures-algorithms-java-11-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805819)
 
-* [Hands-On Data Structures & Algorithms in Java 11 [Video]](https://www.packtpub.com/application-development/hands-data-structures-algorithms-java-11-video?utm_source=github&utm_medium=repository&utm_campaign=9781789805819)
+* * Learn Design Patterns with Java [Video]](https://prod.packtpub.com/in/application-development/learn-design-patterns-java-video)
 
 * [Hands-On RESTful Web Services with Java 11 [Video]](https://www.packtpub.com/web-development/hands-restful-web-services-java-11-video?utm_source=github&utm_medium=repository&utm_campaign=9781789956153)
